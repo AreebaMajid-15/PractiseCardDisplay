@@ -1,0 +1,22 @@
+#Nav{
+   
+    background-color: blueviolet;
+}
+#NavBar{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+#logo{
+   width: 40%;
+}
+#Tags{
+   width: 60%;
+}
+#from{
+   border: 2px solid  blue;
+   background-color: rgb(160, 160, 252);
+   color: black;
+   text-align: center;
+   width: 50%;
+}

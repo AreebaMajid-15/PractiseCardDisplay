@@ -28,7 +28,7 @@ let form = document.getElementById("Loginform")
         //user not present
         else{
             alert("User does not exit")
-            window.location.href = "SIgnup.html"
+            window.location.href = "Signup.html"
         }
     })
     .catch((err) =>{
